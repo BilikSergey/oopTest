@@ -1,0 +1,5 @@
+c:\users\pogremuha\documents\visual studio 2010\Projects\oopTest\oopTest\bin\Debug\oopTest.exe
+c:\users\pogremuha\documents\visual studio 2010\Projects\oopTest\oopTest\bin\Debug\oopTest.pdb
+c:\users\pogremuha\documents\visual studio 2010\Projects\oopTest\oopTest\obj\x86\Debug\oopTest.exe
+c:\users\pogremuha\documents\visual studio 2010\Projects\oopTest\oopTest\obj\x86\Debug\oopTest.pdb
+C:\Users\Pogremuha\Documents\Visual Studio 2010\Projects\oopTest\oopTest\obj\x86\Debug\oopTest.csprojResolveAssemblyReference.cache
